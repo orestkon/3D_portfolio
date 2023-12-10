@@ -1,3 +1,3 @@
-# 3D_portfolio
+# #3D portfolio
 
 An experiment with React and three.js
